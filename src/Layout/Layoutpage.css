@@ -1,0 +1,11 @@
+/* Add this to your stylesheet */
+.underline-white {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -2px; /* Adjust this value to control the distance of the underline from the text */
+    width: 100%;
+    height: 2px;
+    background-color: white;
+  }
+  
